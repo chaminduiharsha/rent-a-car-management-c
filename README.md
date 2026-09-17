@@ -23,5 +23,5 @@ A console-based Rent-a-Car Management System developed in C for the IN1101 Progr
 
 ## Author
 
-Chamindu Iharsha
+Chamindu Iharsha ||
 University of Moratuwa
